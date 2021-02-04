@@ -7,3 +7,16 @@
 * [AlexProgrammerDE/balena-minecraft-server: Build a Minecraft Server using a Raspberry Pi 4! Supports common Servers, SCP, RCON and Wifi Connect.](https://github.com/AlexProgrammerDE/balena-minecraft-server)
 >Raspberry Pi 4B (We recommend the 4GB or the 8GB model. 1GB is not enough!) or Nvidia Jetson Nano
 
+* [Build a Minecraft Server on Raspberry Pi](https://www.linuxnorth.org/minecraft/)
+
+* !!! [Setting up a Raspberry Pi as a routed wireless access point - Raspberry Pi Documentation](https://www.raspberrypi.org/documentation/configuration/wireless/access-point-routed.md)
+
+* [How to Install Minecraft Server on Raspberry Pi | Linuxize](https://linuxize.com/post/how-to-install-minecraft-server-on-raspberry-pi/)
+>In this tutorial, we will walk you through the process of installing and configuring Minecraft Server on Raspberry Pi 3 or 4.
+
+* [How to Set Up a Minecraft Server on Raspberry Pi](https://www.makeuseof.com/tag/setup-minecraft-server-raspberry-pi/)
+
+* [How to Turn Your Raspberry Pi into a Wireless Access Point](https://www.maketecheasier.com/how-to-turn-raspberry-pi-into-wireless-access-point/)
+
+
+
